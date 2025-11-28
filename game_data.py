@@ -223,7 +223,7 @@ def parse_item_block(lines):
 # TESTING
 # ============================================================================
 
-if __name__ == "__main__":
+#if __name__ == "__main__":
 #    print("=== GAME DATA MODULE TEST ===")
     
     # Test creating default files
