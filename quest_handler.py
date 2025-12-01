@@ -1,6 +1,5 @@
 """
 COMP 163 - Project 3: Quest Chronicles
-Quest Handler Module - Final Version (Guaranteed to Pass All Tests)
 """
 
 from custom_exceptions import (
