@@ -2,9 +2,9 @@
 COMP 163 - Project 3: Quest Chronicles
 Main Game Module
 
-Name: [Your Name]
+Name: Ajani Davis
 
-AI Usage: [Document any AI assistance used]
+AI Usage: AI only used for help in debugging
 """
 
 import character_manager
