@@ -4,7 +4,7 @@ Character Manager Module - Starter Code
 
 Name: Ajani Davis
 
-AI Usage: AI only used for help in debugging
+AI Usage: AI only used for help in debugging and making the README.md
 
 This module handles character creation, loading, and saving.
 """
