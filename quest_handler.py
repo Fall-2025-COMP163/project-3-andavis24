@@ -1,5 +1,7 @@
 """
 COMP 163 - Project 3: Quest Chronicles
+AI Usage: AI only used for help in debugging and making the README.md
+
 """
 
 from custom_exceptions import (
