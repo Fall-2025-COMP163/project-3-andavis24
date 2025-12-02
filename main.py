@@ -4,7 +4,7 @@ Main Game Module
 
 Name: Ajani Davis
 
-AI Usage: AI only used for help in debugging
+AI Usage: AI only used for help in debugging and making the README.md
 """
 
 import character_manager
